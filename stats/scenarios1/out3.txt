@@ -1,0 +1,176 @@
+BALANCES c: 39 
+BALANCES a: 76 c: 39 
+BALANCES a: 76 c: 39 s: 61 
+BALANCES a: 76 c: 39 i: 66 s: 61 
+BALANCES a: 15 c: 39 i: 66 l: 61 s: 61 
+BALANCES a: 15 c: 39 i: 18 l: 61 s: 61 w: 48 
+BALANCES a: 15 c: 39 i: 18 k: 15 l: 61 s: 61 w: 48 
+BALANCES a: 15 c: 39 i: 18 k: 15 l: 61 m: 67 s: 61 w: 48 
+BALANCES a: 15 c: 39 i: 18 k: 15 l: 61 m: 67 p: 3 s: 61 w: 48 
+BALANCES a: 15 c: 39 i: 18 k: 15 l: 61 m: 67 p: 3 s: 61 w: 48 x: 83 
+BALANCES a: 15 c: 39 i: 18 k: 114 l: 61 m: 67 p: 3 s: 61 w: 48 x: 83 
+BALANCES a: 15 c: 105 i: 18 k: 114 l: 61 m: 67 p: 3 s: 61 w: 48 x: 83 
+BALANCES a: 15 c: 105 i: 18 k: 114 l: 77 m: 67 p: 3 s: 45 w: 48 x: 83 
+BALANCES a: 15 c: 105 i: 18 k: 114 l: 77 m: 67 p: 3 s: 45 u: 75 w: 48 x: 83 
+BALANCES a: 15 c: 105 i: 18 k: 114 l: 57 m: 67 p: 3 s: 65 u: 75 w: 48 x: 83 
+BALANCES a: 15 c: 105 i: 18 k: 114 l: 57 m: 67 p: 3 s: 56 u: 84 w: 48 x: 83 
+BALANCES a: 15 c: 105 i: 18 j: 16 k: 114 l: 41 m: 67 p: 3 s: 56 u: 84 w: 48 x: 83 
+BALANCES a: 15 c: 105 e: 17 i: 18 j: 16 k: 114 l: 41 m: 67 p: 3 s: 39 u: 84 w: 48 x: 83 
+BALANCES a: 15 c: 105 e: 17 i: 18 j: 16 k: 114 l: 41 m: 67 p: 3 s: 39 u: 84 w: 48 x: 108 
+BALANCES a: 15 c: 105 e: 17 i: 18 j: 16 k: 114 l: 41 m: 67 p: 3 r: 20 s: 39 u: 84 w: 48 x: 108 
+BALANCES a: 15 c: 105 d: 19 e: 17 i: 18 j: 16 k: 114 l: 41 m: 67 p: 3 r: 1 s: 39 u: 84 w: 48 x: 108 
+BALANCES a: 15 c: 105 d: 19 e: 17 i: 1 j: 16 k: 114 l: 41 m: 67 p: 3 q: 17 r: 1 s: 39 u: 84 w: 48 x: 108 
+BALANCES a: 15 c: 105 d: 19 e: 17 i: 4 j: 16 k: 114 l: 41 m: 67 p: 3 q: 17 r: 1 s: 39 u: 81 w: 48 x: 108 
+BALANCES a: 15 c: 105 d: 19 e: 17 i: 4 j: 16 k: 101 l: 54 m: 67 p: 3 q: 17 r: 1 s: 39 u: 81 w: 48 x: 108 
+BALANCES a: 15 c: 105 d: 19 e: 17 h: 15 i: 4 j: 16 k: 101 l: 54 m: 67 p: 3 q: 17 r: 1 s: 39 u: 81 w: 48 x: 108 
+BALANCES a: 15 c: 105 d: 19 e: 15 h: 15 i: 4 j: 16 k: 101 l: 54 m: 67 p: 5 q: 17 r: 1 s: 39 u: 81 w: 48 x: 108 
+BALANCES a: 15 c: 105 d: 19 e: 15 h: 15 i: 4 j: 16 k: 101 l: 54 m: 67 p: 5 q: 17 r: 1 s: 39 t: 6 u: 75 w: 48 x: 108 
+BALANCES a: 15 c: 105 d: 28 e: 15 h: 15 i: 4 j: 16 k: 101 l: 54 m: 67 p: 5 q: 17 r: 1 s: 39 t: 6 u: 75 w: 48 x: 99 
+BALANCES a: 15 c: 105 d: 28 e: 15 h: 15 i: 4 j: 16 k: 101 l: 54 m: 67 p: 5 q: 17 r: 1 s: 39 t: 6 u: 131 w: 48 x: 99 
+BALANCES a: 15 c: 105 d: 28 e: 15 h: 15 i: 4 j: 16 k: 101 l: 39 m: 67 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 w: 48 x: 99 
+BALANCES a: 15 c: 105 d: 28 e: 15 h: 15 i: 1 j: 16 k: 101 l: 39 m: 70 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 w: 48 x: 99 
+BALANCES a: 15 c: 183 d: 28 e: 15 h: 15 i: 1 j: 16 k: 101 l: 39 m: 70 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 w: 48 x: 99 
+BALANCES a: 15 c: 183 d: 28 e: 15 h: 61 i: 1 j: 16 k: 101 l: 39 m: 70 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 w: 48 x: 99 
+BALANCES a: 15 c: 183 d: 26 e: 15 h: 61 i: 1 j: 16 k: 101 l: 39 m: 72 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 w: 48 x: 99 
+BALANCES a: 15 c: 183 d: 26 e: 15 h: 61 i: 8 j: 16 k: 101 l: 39 m: 65 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 w: 48 x: 99 
+BALANCES a: 15 c: 183 d: 26 e: 15 f: 10 h: 61 i: 8 j: 6 k: 101 l: 39 m: 65 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 w: 48 x: 99 
+BALANCES a: 15 c: 183 d: 26 e: 15 f: 18 h: 61 i: 0 j: 6 k: 101 l: 39 m: 65 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 w: 48 x: 99 
+BALANCES a: 15 c: 183 d: 25 e: 15 f: 18 h: 61 i: 0 j: 6 k: 101 l: 39 m: 65 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 v: 1 w: 48 x: 99 
+BALANCES a: 15 c: 183 d: 25 e: 15 f: 18 h: 61 i: 0 j: 6 k: 101 l: 39 m: 65 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 v: 1 w: 48 x: 99 y: 97 
+BALANCES a: 15 b: 14 c: 183 d: 11 e: 15 f: 18 h: 61 i: 0 j: 6 k: 101 l: 39 m: 65 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 v: 1 w: 48 x: 99 y: 97 
+BALANCES a: 15 b: 17 c: 183 d: 11 e: 15 f: 18 h: 61 i: 0 j: 6 k: 101 l: 39 m: 62 p: 5 q: 17 r: 16 s: 39 t: 6 u: 131 v: 1 w: 48 x: 99 y: 97 
+BALANCES a: 15 b: 17 c: 183 d: 11 e: 15 f: 18 h: 61 i: 0 j: 6 k: 101 l: 39 m: 62 p: 5 q: 17 r: 16 s: 39 t: 11 u: 131 v: 1 w: 48 x: 99 y: 97 
+BALANCES a: 8 b: 17 c: 183 d: 11 e: 15 f: 18 h: 61 i: 0 j: 6 k: 101 l: 39 m: 62 p: 5 q: 17 r: 16 s: 39 t: 11 u: 131 v: 8 w: 48 x: 99 y: 97 
+BALANCES a: 8 b: 17 c: 183 d: 11 e: 15 f: 18 h: 61 i: 0 j: 6 k: 101 l: 39 m: 62 n: 22 p: 5 q: 17 r: 16 s: 39 t: 11 u: 131 v: 8 w: 48 x: 99 y: 97 
+BALANCES a: 8 b: 17 c: 183 d: 11 e: 15 f: 18 h: 61 i: 0 j: 6 k: 101 l: 39 m: 62 n: 22 p: 5 q: 17 r: 23 s: 32 t: 11 u: 131 v: 8 w: 48 x: 99 y: 97 
+BALANCES a: 8 b: 17 c: 183 d: 11 e: 15 f: 18 h: 61 i: 0 j: 24 k: 101 l: 39 m: 62 n: 22 p: 5 q: 17 r: 23 s: 32 t: 11 u: 131 v: 8 w: 48 x: 99 y: 97 
+BALANCES a: 8 b: 31 c: 183 d: 11 e: 15 f: 18 h: 61 i: 0 j: 24 k: 101 l: 39 m: 62 n: 22 p: 5 q: 17 r: 23 s: 32 t: 11 u: 131 v: 8 w: 48 x: 99 y: 97 
+BALANCES a: 8 b: 31 c: 183 d: 11 e: 15 f: 18 h: 51 i: 0 j: 24 k: 111 l: 39 m: 62 n: 22 p: 5 q: 17 r: 23 s: 32 t: 11 u: 131 v: 8 w: 48 x: 99 y: 97 
+BALANCES a: 8 b: 57 c: 183 d: 11 e: 15 f: 18 h: 51 i: 0 j: 24 k: 111 l: 39 m: 62 n: 22 p: 5 q: 17 r: 23 s: 32 t: 11 u: 131 v: 8 w: 48 x: 99 y: 71 
+BALANCES a: 8 b: 57 c: 183 d: 11 e: 15 f: 18 h: 51 i: 0 j: 24 k: 111 l: 39 m: 62 n: 22 p: 5 q: 21 r: 23 s: 32 t: 7 u: 131 v: 8 w: 48 x: 99 y: 71 
+BALANCES a: 8 b: 57 c: 183 d: 11 e: 15 f: 18 h: 52 i: 0 j: 24 k: 111 l: 39 m: 62 n: 22 p: 5 q: 21 r: 23 s: 32 t: 7 u: 131 v: 7 w: 48 x: 99 y: 71 
+BALANCES a: 8 b: 57 c: 183 d: 11 e: 15 f: 52 h: 52 i: 0 j: 24 k: 77 l: 39 m: 62 n: 22 p: 5 q: 21 r: 23 s: 32 t: 7 u: 131 v: 7 w: 48 x: 99 y: 71 
+BALANCES a: 8 b: 57 c: 183 d: 11 e: 15 f: 52 h: 52 i: 0 j: 24 k: 94 l: 39 m: 62 n: 22 p: 5 q: 4 r: 23 s: 32 t: 7 u: 131 v: 7 w: 48 x: 99 y: 71 
+BALANCES a: 8 b: 57 c: 183 d: 11 e: 15 f: 52 h: 52 i: 0 j: 24 k: 94 l: 39 m: 62 n: 22 p: 5 q: 4 r: 58 s: 32 t: 7 u: 131 v: 7 w: 48 x: 99 y: 36 
+BALANCES a: 8 b: 57 c: 183 d: 40 e: 15 f: 52 h: 52 i: 0 j: 24 k: 94 l: 39 m: 62 n: 22 p: 5 q: 4 r: 29 s: 32 t: 7 u: 131 v: 7 w: 48 x: 99 y: 36 
+BALANCES a: 8 b: 62 c: 183 d: 40 e: 15 f: 52 h: 52 i: 0 j: 24 k: 94 l: 39 m: 62 n: 22 p: 5 q: 4 r: 29 s: 32 t: 7 u: 131 v: 7 w: 48 x: 99 y: 36 
+BALANCES a: 3 b: 62 c: 183 d: 40 e: 15 f: 52 h: 52 i: 0 j: 24 k: 94 l: 39 m: 62 n: 22 p: 5 q: 4 r: 29 s: 37 t: 7 u: 131 v: 7 w: 48 x: 99 y: 36 
+BALANCES a: 3 b: 62 c: 183 d: 40 e: 15 f: 52 h: 53 i: 0 j: 24 k: 94 l: 39 m: 62 n: 22 p: 5 q: 4 r: 29 s: 37 t: 7 u: 130 v: 7 w: 48 x: 99 y: 36 
+BALANCES a: 3 b: 62 c: 183 d: 40 e: 15 f: 52 h: 53 i: 0 j: 24 k: 94 l: 40 m: 62 n: 22 p: 4 q: 4 r: 29 s: 37 t: 7 u: 130 v: 7 w: 48 x: 99 y: 36 
+BALANCES a: 8 b: 62 c: 183 d: 40 e: 15 f: 52 h: 53 i: 0 j: 24 k: 89 l: 40 m: 62 n: 22 p: 4 q: 4 r: 29 s: 37 t: 7 u: 130 v: 7 w: 48 x: 99 y: 36 
+BALANCES a: 8 b: 62 c: 193 d: 40 e: 15 f: 42 h: 53 i: 0 j: 24 k: 89 l: 40 m: 62 n: 22 p: 4 q: 4 r: 29 s: 37 t: 7 u: 130 v: 7 w: 48 x: 99 y: 36 
+BALANCES a: 8 b: 62 c: 193 d: 40 e: 15 f: 42 h: 70 i: 0 j: 24 k: 89 l: 40 m: 62 n: 22 p: 4 q: 4 r: 29 s: 37 t: 7 u: 130 v: 7 w: 48 x: 82 y: 36 
+BALANCES a: 8 b: 62 c: 193 d: 40 e: 15 f: 42 h: 70 i: 0 j: 24 k: 89 l: 40 m: 62 n: 5 p: 4 q: 4 r: 29 s: 37 t: 7 u: 130 v: 7 w: 48 x: 82 y: 53 
+BALANCES a: 8 b: 62 c: 88 d: 40 e: 15 f: 42 g: 105 h: 70 i: 0 j: 24 k: 89 l: 40 m: 62 n: 5 p: 4 q: 4 r: 29 s: 37 t: 7 u: 130 v: 7 w: 48 x: 82 y: 53 
+BALANCES a: 8 b: 62 c: 88 d: 40 e: 15 f: 42 g: 105 h: 70 i: 0 j: 24 k: 89 l: 1 m: 62 n: 5 p: 4 q: 4 r: 29 s: 37 t: 7 u: 130 v: 7 w: 87 x: 82 y: 53 
+BALANCES a: 8 b: 62 c: 88 d: 40 e: 15 f: 42 g: 105 h: 70 i: 0 j: 24 k: 89 l: 1 m: 62 n: 5 p: 4 q: 4 r: 29 s: 37 t: 7 u: 162 v: 7 w: 87 x: 82 y: 53 
+BALANCES a: 8 b: 62 c: 88 d: 40 e: 15 f: 42 g: 85 h: 70 i: 0 j: 24 k: 89 l: 1 m: 62 n: 5 p: 4 q: 4 r: 29 s: 37 t: 27 u: 162 v: 7 w: 87 x: 82 y: 53 
+BALANCES a: 8 b: 62 c: 88 d: 40 e: 15 f: 42 g: 85 h: 70 i: 0 j: 24 k: 89 l: 1 m: 62 n: 0 p: 4 q: 4 r: 29 s: 37 t: 32 u: 162 v: 7 w: 87 x: 82 y: 53 
+BALANCES a: 8 b: 62 c: 88 d: 40 e: 15 f: 45 g: 85 h: 70 i: 0 j: 24 k: 89 l: 1 m: 62 n: 0 p: 1 q: 4 r: 29 s: 37 t: 32 u: 162 v: 7 w: 87 x: 82 y: 53 
+BALANCES a: 8 b: 62 c: 88 d: 40 e: 15 f: 45 g: 29 h: 70 i: 0 j: 24 k: 89 l: 1 m: 62 n: 0 o: 56 p: 1 q: 4 r: 29 s: 37 t: 32 u: 162 v: 7 w: 87 x: 82 y: 53 
+BALANCES a: 8 b: 62 c: 88 d: 40 e: 15 f: 45 g: 29 h: 70 i: 0 j: 42 k: 89 l: 1 m: 62 n: 0 o: 56 p: 1 q: 4 r: 29 s: 37 t: 32 u: 144 v: 7 w: 87 x: 82 y: 53 
+BALANCES a: 8 b: 62 c: 88 d: 40 e: 15 f: 45 g: 29 h: 70 i: 0 j: 42 k: 89 l: 1 m: 62 n: 0 o: 56 p: 1 q: 4 r: 29 s: 37 t: 51 u: 144 v: 7 w: 87 x: 82 y: 53 
+BALANCES a: 8 b: 62 c: 77 d: 40 e: 15 f: 45 g: 29 h: 70 i: 11 j: 42 k: 89 l: 1 m: 62 n: 0 o: 56 p: 1 q: 4 r: 29 s: 37 t: 51 u: 144 v: 7 w: 87 x: 82 y: 53 
+BALANCES a: 8 b: 62 c: 77 d: 40 e: 15 f: 45 g: 29 h: 70 i: 11 j: 42 k: 82 l: 1 m: 62 n: 0 o: 56 p: 1 q: 4 r: 29 s: 37 t: 51 u: 144 v: 7 w: 87 x: 82 y: 53 z: 7 
+BALANCES a: 8 b: 62 c: 95 d: 40 e: 15 f: 45 g: 29 h: 52 i: 11 j: 42 k: 82 l: 1 m: 62 n: 0 o: 56 p: 1 q: 4 r: 29 s: 37 t: 51 u: 144 v: 7 w: 87 x: 82 y: 53 z: 7 
+BALANCES a: 8 b: 62 c: 95 d: 40 e: 15 f: 45 g: 29 h: 52 i: 11 j: 42 k: 82 l: 1 m: 62 n: 0 o: 56 p: 1 q: 4 r: 29 s: 37 t: 51 u: 144 v: 7 w: 185 x: 82 y: 53 z: 7 
+BALANCES a: 8 b: 61 c: 95 d: 40 e: 15 f: 45 g: 29 h: 52 i: 11 j: 42 k: 82 l: 1 m: 62 n: 0 o: 56 p: 1 q: 4 r: 29 s: 37 t: 51 u: 144 v: 7 w: 185 x: 82 y: 54 z: 7 
+BALANCES a: 8 b: 61 c: 95 d: 40 e: 15 f: 45 g: 29 h: 62 i: 11 j: 42 k: 82 l: 1 m: 62 n: 0 o: 56 p: 1 q: 4 r: 19 s: 37 t: 51 u: 144 v: 7 w: 185 x: 82 y: 54 z: 7 
+BALANCES a: 8 b: 61 c: 95 d: 40 e: 15 f: 45 g: 29 h: 62 i: 11 j: 42 k: 82 l: 1 m: 142 n: 0 o: 56 p: 1 q: 4 r: 19 s: 37 t: 51 u: 144 v: 7 w: 185 x: 82 y: 54 z: 7 
+BALANCES a: 8 b: 61 c: 77 d: 40 e: 15 f: 45 g: 29 h: 62 i: 11 j: 42 k: 100 l: 1 m: 142 n: 0 o: 56 p: 1 q: 4 r: 19 s: 37 t: 51 u: 144 v: 7 w: 185 x: 82 y: 54 z: 7 
+BALANCES a: 8 b: 61 c: 77 d: 40 e: 15 f: 45 g: 29 h: 62 i: 11 j: 42 k: 100 l: 1 m: 142 n: 0 o: 56 p: 1 q: 4 r: 19 s: 37 t: 51 u: 144 v: 7 w: 185 x: 82 y: 68 z: 7 
+BALANCES a: 8 b: 61 c: 77 d: 40 e: 15 f: 45 g: 29 h: 62 i: 11 j: 39 k: 100 l: 1 m: 142 n: 0 o: 56 p: 1 q: 4 r: 19 s: 37 t: 54 u: 144 v: 7 w: 185 x: 82 y: 68 z: 7 
+BALANCES a: 8 b: 61 c: 77 d: 40 e: 15 f: 45 g: 29 h: 125 i: 11 j: 39 k: 100 l: 1 m: 142 n: 0 o: 56 p: 1 q: 4 r: 19 s: 37 t: 54 u: 144 v: 7 w: 185 x: 82 y: 68 z: 7 
+BALANCES a: 8 b: 61 c: 77 d: 40 e: 15 f: 45 g: 29 h: 92 i: 11 j: 39 k: 100 l: 1 m: 175 n: 0 o: 56 p: 1 q: 4 r: 19 s: 37 t: 54 u: 144 v: 7 w: 185 x: 82 y: 68 z: 7 
+BALANCES a: 8 b: 61 c: 77 d: 40 e: 15 f: 45 g: 29 h: 92 i: 11 j: 39 k: 100 l: 1 m: 175 n: 30 o: 56 p: 1 q: 4 r: 19 s: 37 t: 54 u: 144 v: 7 w: 185 x: 52 y: 68 z: 7 
+BALANCES a: 8 b: 61 c: 77 d: 40 e: 15 f: 45 g: 29 h: 80 i: 11 j: 39 k: 100 l: 1 m: 175 n: 30 o: 56 p: 1 q: 16 r: 19 s: 37 t: 54 u: 144 v: 7 w: 185 x: 52 y: 68 z: 7 
+BALANCES a: 8 b: 61 c: 77 d: 40 e: 15 f: 52 g: 29 h: 80 i: 11 j: 39 k: 100 l: 1 m: 175 n: 30 o: 56 p: 1 q: 16 r: 19 s: 37 t: 54 u: 137 v: 7 w: 185 x: 52 y: 68 z: 7 
+BALANCES a: 8 b: 61 c: 77 d: 40 e: 15 f: 52 g: 29 h: 80 i: 11 j: 39 k: 100 l: 1 m: 175 n: 30 o: 56 p: 1 q: 16 r: 19 s: 37 t: 54 u: 137 v: 7 w: 185 x: 59 y: 68 z: 0 
+BALANCES a: 8 b: 61 c: 77 d: 40 e: 15 f: 52 g: 29 h: 80 i: 11 j: 43 k: 100 l: 1 m: 175 n: 30 o: 56 p: 1 q: 12 r: 19 s: 37 t: 54 u: 137 v: 7 w: 185 x: 59 y: 68 z: 0 
+BALANCES a: 13 b: 61 c: 77 d: 40 e: 15 f: 52 g: 29 h: 80 i: 11 j: 43 k: 100 l: 1 m: 175 n: 30 o: 56 p: 1 q: 12 r: 19 s: 32 t: 54 u: 137 v: 7 w: 185 x: 59 y: 68 z: 0 
+BALANCES a: 13 b: 61 c: 77 d: 40 e: 16 f: 52 g: 29 h: 80 i: 11 j: 43 k: 100 l: 1 m: 175 n: 30 o: 56 p: 0 q: 12 r: 19 s: 32 t: 54 u: 137 v: 7 w: 185 x: 59 y: 68 z: 0 
+BALANCES a: 0 b: 61 c: 77 d: 40 e: 16 f: 52 g: 29 h: 80 i: 11 j: 43 k: 100 l: 1 m: 175 n: 30 o: 56 p: 0 q: 12 r: 19 s: 32 t: 54 u: 137 v: 7 w: 185 x: 59 y: 81 z: 0 
+BALANCES a: 0 b: 61 c: 77 d: 40 e: 16 f: 52 g: 29 h: 80 i: 11 j: 32 k: 100 l: 1 m: 175 n: 30 o: 56 p: 0 q: 12 r: 19 s: 32 t: 54 u: 137 v: 7 w: 185 x: 59 y: 81 z: 11 
+BALANCES a: 0 b: 61 c: 77 d: 40 e: 16 f: 52 g: 29 h: 80 i: 11 j: 32 k: 100 l: 1 m: 175 n: 30 o: 56 p: 0 q: 12 r: 19 s: 32 t: 57 u: 137 v: 7 w: 185 x: 59 y: 81 z: 8 
+BALANCES a: 0 b: 61 c: 77 d: 40 e: 16 f: 52 g: 68 h: 41 i: 11 j: 32 k: 100 l: 1 m: 175 n: 30 o: 56 p: 0 q: 12 r: 19 s: 32 t: 57 u: 137 v: 7 w: 185 x: 59 y: 81 z: 8 
+BALANCES a: 9 b: 61 c: 77 d: 40 e: 16 f: 52 g: 68 h: 41 i: 11 j: 32 k: 100 l: 1 m: 175 n: 30 o: 56 p: 0 q: 12 r: 19 s: 32 t: 57 u: 137 v: 7 w: 185 x: 50 y: 81 z: 8 
+BALANCES a: 11 b: 61 c: 77 d: 40 e: 16 f: 52 g: 68 h: 41 i: 11 j: 32 k: 100 l: 1 m: 175 n: 30 o: 56 p: 0 q: 12 r: 19 s: 32 t: 57 u: 137 v: 7 w: 185 x: 48 y: 81 z: 8 
+BALANCES a: 11 b: 61 c: 68 d: 40 e: 16 f: 52 g: 68 h: 41 i: 11 j: 32 k: 100 l: 1 m: 175 n: 30 o: 56 p: 0 q: 12 r: 19 s: 32 t: 57 u: 137 v: 7 w: 194 x: 48 y: 81 z: 8 
+BALANCES a: 11 b: 61 c: 68 d: 40 e: 16 f: 52 g: 68 h: 41 i: 11 j: 32 k: 100 l: 107 m: 69 n: 30 o: 56 p: 0 q: 12 r: 19 s: 32 t: 57 u: 137 v: 7 w: 194 x: 48 y: 81 z: 8 
+BALANCES a: 11 b: 61 c: 68 d: 40 e: 16 f: 52 g: 78 h: 41 i: 11 j: 32 k: 100 l: 107 m: 69 n: 30 o: 56 p: 0 q: 12 r: 19 s: 32 t: 57 u: 137 v: 7 w: 194 x: 48 y: 71 z: 8 
+BALANCES a: 11 b: 61 c: 68 d: 40 e: 16 f: 52 g: 78 h: 41 i: 11 j: 32 k: 100 l: 107 m: 69 n: 30 o: 56 p: 0 q: 39 r: 19 s: 32 t: 57 u: 137 v: 7 w: 194 x: 48 y: 71 z: 8 
+BALANCES a: 11 b: 61 c: 68 d: 40 e: 31 f: 52 g: 78 h: 41 i: 11 j: 32 k: 100 l: 107 m: 69 n: 30 o: 56 p: 0 q: 39 r: 19 s: 32 t: 57 u: 137 v: 7 w: 194 x: 48 y: 71 z: 8 
+BALANCES a: 11 b: 61 c: 68 d: 40 e: 88 f: 52 g: 21 h: 41 i: 11 j: 32 k: 100 l: 107 m: 69 n: 30 o: 56 p: 0 q: 39 r: 19 s: 32 t: 57 u: 137 v: 7 w: 194 x: 48 y: 71 z: 8 
+BALANCES a: 11 b: 61 c: 68 d: 40 e: 88 f: 52 g: 21 h: 41 i: 11 j: 32 k: 100 l: 107 m: 69 n: 30 o: 56 p: 0 q: 39 r: 19 s: 32 t: 57 u: 230 v: 7 w: 194 x: 48 y: 71 z: 8 
+BALANCES a: 21 b: 61 c: 68 d: 40 e: 88 f: 52 g: 21 h: 41 i: 11 j: 32 k: 100 l: 107 m: 69 n: 30 o: 56 p: 0 q: 29 r: 19 s: 32 t: 57 u: 230 v: 7 w: 194 x: 48 y: 71 z: 8 
+BALANCES a: 21 b: 61 c: 68 d: 40 e: 25 f: 52 g: 21 h: 41 i: 74 j: 32 k: 100 l: 107 m: 69 n: 30 o: 56 p: 0 q: 29 r: 19 s: 32 t: 57 u: 230 v: 7 w: 194 x: 48 y: 71 z: 8 
+BALANCES a: 21 b: 61 c: 68 d: 40 e: 25 f: 52 g: 21 h: 41 i: 77 j: 32 k: 100 l: 107 m: 69 n: 30 o: 56 p: 0 q: 29 r: 19 s: 32 t: 57 u: 230 v: 7 w: 194 x: 45 y: 71 z: 8 
+BALANCES a: 21 b: 61 c: 12 d: 40 e: 25 f: 52 g: 21 h: 41 i: 77 j: 32 k: 100 l: 107 m: 125 n: 30 o: 56 p: 0 q: 29 r: 19 s: 32 t: 57 u: 230 v: 7 w: 194 x: 45 y: 71 z: 8 
+BALANCES a: 21 b: 61 c: 12 d: 40 e: 25 f: 52 g: 21 h: 41 i: 77 j: 32 k: 100 l: 107 m: 125 n: 30 o: 56 p: 7 q: 29 r: 19 s: 32 t: 57 u: 230 v: 7 w: 194 x: 45 y: 71 z: 8 
+BALANCES a: 21 b: 61 c: 12 d: 40 e: 25 f: 52 g: 21 h: 41 i: 77 j: 32 k: 100 l: 107 m: 125 n: 30 o: 5 p: 7 q: 29 r: 19 s: 32 t: 57 u: 281 v: 7 w: 194 x: 45 y: 71 z: 8 
+BALANCES a: 21 b: 62 c: 12 d: 40 e: 25 f: 52 g: 21 h: 41 i: 77 j: 32 k: 100 l: 107 m: 125 n: 30 o: 4 p: 7 q: 29 r: 19 s: 32 t: 57 u: 281 v: 7 w: 194 x: 45 y: 71 z: 8 
+BALANCES a: 21 b: 62 c: 12 d: 40 e: 25 f: 53 g: 21 h: 41 i: 77 j: 32 k: 100 l: 107 m: 125 n: 30 o: 4 p: 7 q: 29 r: 19 s: 32 t: 56 u: 281 v: 7 w: 194 x: 45 y: 71 z: 8 
+BALANCES a: 21 b: 62 c: 12 d: 40 e: 25 f: 53 g: 21 h: 41 i: 77 j: 32 k: 96 l: 107 m: 125 n: 30 o: 4 p: 7 q: 29 r: 19 s: 32 t: 56 u: 281 v: 7 w: 194 x: 45 y: 71 z: 12 
+BALANCES a: 21 b: 62 c: 12 d: 40 e: 25 f: 53 g: 15 h: 41 i: 77 j: 32 k: 96 l: 107 m: 125 n: 30 o: 4 p: 7 q: 29 r: 19 s: 32 t: 62 u: 281 v: 7 w: 194 x: 45 y: 71 z: 12 
+BALANCES a: 21 b: 62 c: 12 d: 40 e: 25 f: 53 g: 15 h: 41 i: 77 j: 32 k: 96 l: 107 m: 125 n: 30 o: 63 p: 7 q: 29 r: 19 s: 32 t: 62 u: 281 v: 7 w: 194 x: 45 y: 12 z: 12 
+BALANCES a: 21 b: 62 c: 12 d: 40 e: 25 f: 53 g: 15 h: 41 i: 77 j: 32 k: 96 l: 107 m: 125 n: 30 o: 63 p: 7 q: 27 r: 19 s: 32 t: 62 u: 283 v: 7 w: 194 x: 45 y: 12 z: 12 
+BALANCES a: 20 b: 62 c: 12 d: 41 e: 25 f: 53 g: 15 h: 41 i: 77 j: 32 k: 96 l: 107 m: 125 n: 30 o: 63 p: 7 q: 27 r: 19 s: 32 t: 62 u: 283 v: 7 w: 194 x: 45 y: 12 z: 12 
+BALANCES a: 20 b: 88 c: 12 d: 41 e: 25 f: 53 g: 15 h: 41 i: 77 j: 32 k: 96 l: 107 m: 125 n: 30 o: 63 p: 7 q: 27 r: 19 s: 32 t: 62 u: 283 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 20 b: 88 c: 12 d: 41 e: 83 f: 53 g: 15 h: 41 i: 77 j: 32 k: 96 l: 107 m: 125 n: 30 o: 63 p: 7 q: 27 r: 19 s: 32 t: 62 u: 225 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 19 b: 88 c: 12 d: 41 e: 83 f: 53 g: 15 h: 41 i: 77 j: 32 k: 96 l: 108 m: 125 n: 30 o: 63 p: 7 q: 27 r: 19 s: 32 t: 62 u: 225 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 88 c: 12 d: 41 e: 83 f: 53 g: 15 h: 41 i: 77 j: 37 k: 96 l: 108 m: 125 n: 30 o: 63 p: 7 q: 27 r: 19 s: 32 t: 62 u: 225 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 79 c: 12 d: 50 e: 83 f: 53 g: 15 h: 41 i: 77 j: 37 k: 96 l: 108 m: 125 n: 30 o: 63 p: 7 q: 27 r: 19 s: 32 t: 62 u: 225 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 79 c: 12 d: 50 e: 83 f: 53 g: 15 h: 36 i: 77 j: 37 k: 96 l: 108 m: 130 n: 30 o: 63 p: 7 q: 27 r: 19 s: 32 t: 62 u: 225 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 79 c: 12 d: 50 e: 83 f: 53 g: 15 h: 36 i: 77 j: 52 k: 96 l: 108 m: 130 n: 30 o: 63 p: 7 q: 27 r: 19 s: 32 t: 47 u: 225 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 79 c: 12 d: 50 e: 83 f: 53 g: 15 h: 36 i: 77 j: 51 k: 96 l: 108 m: 130 n: 30 o: 63 p: 7 q: 27 r: 19 s: 33 t: 47 u: 225 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 79 c: 43 d: 50 e: 83 f: 53 g: 15 h: 36 i: 77 j: 51 k: 96 l: 108 m: 130 n: 30 o: 63 p: 7 q: 27 r: 19 s: 33 t: 47 u: 225 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 79 c: 43 d: 50 e: 74 f: 53 g: 15 h: 36 i: 77 j: 51 k: 96 l: 117 m: 130 n: 30 o: 63 p: 7 q: 27 r: 19 s: 33 t: 47 u: 225 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 79 c: 43 d: 22 e: 74 f: 53 g: 43 h: 36 i: 77 j: 51 k: 96 l: 117 m: 130 n: 30 o: 63 p: 7 q: 27 r: 19 s: 33 t: 47 u: 225 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 79 c: 43 d: 22 e: 74 f: 53 g: 43 h: 36 i: 77 j: 51 k: 96 l: 117 m: 130 n: 30 o: 71 p: 7 q: 27 r: 19 s: 33 t: 47 u: 217 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 22 e: 74 f: 53 g: 43 h: 36 i: 77 j: 83 k: 96 l: 117 m: 130 n: 30 o: 71 p: 7 q: 27 r: 19 s: 33 t: 47 u: 217 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 22 e: 74 f: 53 g: 43 h: 36 i: 77 j: 83 k: 96 l: 181 m: 130 n: 30 o: 71 p: 7 q: 27 r: 19 s: 33 t: 47 u: 217 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 22 e: 74 f: 53 g: 111 h: 36 i: 77 j: 83 k: 96 l: 181 m: 130 n: 30 o: 71 p: 7 q: 27 r: 19 s: 33 t: 47 u: 217 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 22 e: 74 f: 53 g: 109 h: 38 i: 77 j: 83 k: 96 l: 181 m: 130 n: 30 o: 71 p: 7 q: 27 r: 19 s: 33 t: 47 u: 217 v: 7 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 22 e: 74 f: 57 g: 109 h: 38 i: 77 j: 83 k: 96 l: 181 m: 130 n: 30 o: 71 p: 7 q: 27 r: 19 s: 33 t: 47 u: 217 v: 3 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 22 e: 74 f: 57 g: 109 h: 38 i: 77 j: 86 k: 96 l: 181 m: 130 n: 30 o: 71 p: 7 q: 27 r: 19 s: 33 t: 47 u: 214 v: 3 w: 168 x: 45 y: 12 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 22 e: 74 f: 57 g: 109 h: 38 i: 77 j: 86 k: 96 l: 181 m: 130 n: 30 o: 78 p: 7 q: 27 r: 19 s: 33 t: 47 u: 214 v: 3 w: 168 x: 45 y: 5 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 22 e: 74 f: 57 g: 99 h: 48 i: 77 j: 86 k: 96 l: 181 m: 130 n: 30 o: 78 p: 7 q: 27 r: 19 s: 33 t: 47 u: 214 v: 3 w: 168 x: 45 y: 5 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 22 e: 74 f: 57 g: 99 h: 48 i: 77 j: 86 k: 96 l: 181 m: 130 n: 30 o: 78 p: 7 q: 27 r: 19 s: 33 t: 47 u: 214 v: 3 w: 265 x: 45 y: 5 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 111 e: 74 f: 57 g: 99 h: 48 i: 77 j: 86 k: 96 l: 181 m: 130 n: 30 o: 78 p: 7 q: 27 r: 19 s: 33 t: 47 u: 214 v: 3 w: 265 x: 45 y: 5 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 111 e: 74 f: 57 g: 99 h: 48 i: 77 j: 86 k: 96 l: 181 m: 130 n: 30 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 214 v: 3 w: 265 x: 45 y: 5 z: 12 
+BALANCES a: 14 b: 47 c: 43 d: 111 e: 74 f: 57 g: 99 h: 48 i: 77 j: 86 k: 96 l: 181 m: 130 n: 30 o: 78 p: 7 q: 126 r: 19 s: 33 t: 47 u: 214 v: 3 w: 265 x: 38 y: 5 z: 12 
+BALANCES a: 16 b: 47 c: 43 d: 111 e: 74 f: 57 g: 99 h: 46 i: 77 j: 86 k: 96 l: 181 m: 130 n: 30 o: 78 p: 7 q: 126 r: 19 s: 33 t: 47 u: 214 v: 3 w: 265 x: 38 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 43 d: 111 e: 74 f: 57 g: 106 h: 46 i: 77 j: 86 k: 96 l: 181 m: 130 n: 30 o: 78 p: 7 q: 126 r: 19 s: 33 t: 47 u: 214 v: 3 w: 265 x: 38 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 43 d: 38 e: 74 f: 57 g: 106 h: 46 i: 77 j: 159 k: 96 l: 181 m: 130 n: 30 o: 78 p: 7 q: 126 r: 19 s: 33 t: 47 u: 214 v: 3 w: 265 x: 38 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 43 d: 38 e: 74 f: 64 g: 106 h: 46 i: 77 j: 159 k: 96 l: 181 m: 130 n: 30 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 214 v: 3 w: 265 x: 38 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 43 d: 38 e: 74 f: 64 g: 106 h: 46 i: 77 j: 159 k: 96 l: 181 m: 130 n: 37 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 3 w: 265 x: 38 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 43 d: 38 e: 74 f: 64 g: 106 h: 45 i: 77 j: 159 k: 96 l: 181 m: 130 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 3 w: 265 x: 38 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 49 d: 38 e: 74 f: 64 g: 106 h: 39 i: 77 j: 159 k: 96 l: 181 m: 130 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 3 w: 265 x: 38 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 49 d: 38 e: 74 f: 64 g: 106 h: 39 i: 77 j: 159 k: 96 l: 181 m: 96 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 3 w: 265 x: 72 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 49 d: 38 e: 74 f: 64 g: 106 h: 111 i: 77 j: 159 k: 96 l: 181 m: 96 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 3 w: 265 x: 72 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 49 d: 38 e: 74 f: 162 g: 106 h: 111 i: 77 j: 159 k: 96 l: 181 m: 96 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 3 w: 265 x: 72 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 49 d: 38 e: 74 f: 162 g: 106 h: 111 i: 77 j: 155 k: 96 l: 181 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 3 w: 265 x: 72 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 49 d: 38 e: 74 f: 162 g: 44 h: 111 i: 77 j: 155 k: 96 l: 181 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 3 w: 265 x: 134 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 49 d: 35 e: 74 f: 162 g: 44 h: 114 i: 77 j: 155 k: 96 l: 181 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 3 w: 265 x: 134 y: 5 z: 12 
+BALANCES a: 16 b: 40 c: 49 d: 35 e: 74 f: 162 g: 44 h: 114 i: 82 j: 155 k: 96 l: 181 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 3 w: 265 x: 134 y: 5 z: 7 
+BALANCES a: 16 b: 40 c: 49 d: 35 e: 74 f: 162 g: 44 h: 114 i: 82 j: 155 k: 96 l: 181 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 3 w: 300 x: 134 y: 5 z: 7 
+BALANCES a: 16 b: 40 c: 49 d: 35 e: 74 f: 162 g: 44 h: 114 i: 82 j: 155 k: 96 l: 143 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 41 w: 300 x: 134 y: 5 z: 7 
+BALANCES a: 16 b: 40 c: 49 d: 35 e: 74 f: 162 g: 44 h: 114 i: 82 j: 155 k: 96 l: 145 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 41 w: 300 x: 134 y: 5 z: 5 
+BALANCES a: 16 b: 40 c: 49 d: 28 e: 74 f: 162 g: 44 h: 114 i: 82 j: 155 k: 96 l: 145 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 48 w: 300 x: 134 y: 5 z: 5 
+BALANCES a: 16 b: 40 c: 49 d: 31 e: 74 f: 162 g: 44 h: 114 i: 82 j: 155 k: 96 l: 145 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 48 w: 300 x: 134 y: 5 z: 5 
+BALANCES a: 16 b: 40 c: 49 d: 31 e: 75 f: 162 g: 44 h: 114 i: 82 j: 155 k: 96 l: 145 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 48 w: 300 x: 134 y: 5 z: 4 
+BALANCES a: 16 b: 40 c: 49 d: 31 e: 2 f: 162 g: 44 h: 114 i: 82 j: 155 k: 96 l: 145 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 33 t: 47 u: 207 v: 48 w: 300 x: 134 y: 5 z: 77 
+BALANCES a: 16 b: 40 c: 49 d: 31 e: 2 f: 162 g: 46 h: 114 i: 82 j: 155 k: 96 l: 145 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 31 t: 47 u: 207 v: 48 w: 300 x: 134 y: 5 z: 77 
+BALANCES a: 16 b: 44 c: 49 d: 31 e: 2 f: 158 g: 46 h: 114 i: 82 j: 155 k: 96 l: 145 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 31 t: 47 u: 207 v: 48 w: 300 x: 134 y: 5 z: 77 
+BALANCES a: 16 b: 44 c: 49 d: 31 e: 2 f: 158 g: 46 h: 114 i: 82 j: 147 k: 96 l: 153 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 31 t: 47 u: 207 v: 48 w: 300 x: 134 y: 5 z: 77 
+BALANCES a: 16 b: 44 c: 49 d: 31 e: 2 f: 158 g: 46 h: 114 i: 88 j: 147 k: 96 l: 147 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 31 t: 47 u: 207 v: 48 w: 300 x: 134 y: 5 z: 77 
+BALANCES a: 16 b: 44 c: 49 d: 31 e: 2 f: 158 g: 46 h: 114 i: 88 j: 147 k: 96 l: 147 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 31 t: 47 u: 207 v: 98 w: 300 x: 134 y: 5 z: 77 
+BALANCES a: 37 b: 44 c: 49 d: 31 e: 2 f: 158 g: 46 h: 114 i: 88 j: 147 k: 75 l: 147 m: 100 n: 38 o: 78 p: 7 q: 119 r: 19 s: 31 t: 47 u: 207 v: 98 w: 300 x: 134 y: 5 z: 77 
+BALANCES a: 37 b: 44 c: 49 d: 31 e: 2 f: 158 g: 46 h: 114 i: 88 j: 147 k: 75 l: 147 m: 63 n: 38 o: 78 p: 7 q: 119 r: 19 s: 31 t: 47 u: 207 v: 98 w: 300 x: 134 y: 5 z: 114 
+BALANCES a: 37 b: 44 c: 51 d: 31 e: 2 f: 158 g: 46 h: 114 i: 88 j: 147 k: 75 l: 147 m: 63 n: 38 o: 78 p: 7 q: 119 r: 19 s: 31 t: 47 u: 207 v: 98 w: 300 x: 134 y: 5 z: 112 
+BALANCES a: 37 b: 44 c: 51 d: 31 e: 2 f: 158 g: 46 h: 114 i: 81 j: 147 k: 75 l: 147 m: 63 n: 38 o: 78 p: 7 q: 119 r: 19 s: 38 t: 47 u: 207 v: 98 w: 300 x: 134 y: 5 z: 112 
+BALANCES a: 37 b: 44 c: 51 d: 31 e: 10 f: 158 g: 46 h: 114 i: 81 j: 147 k: 75 l: 147 m: 63 n: 38 o: 78 p: 7 q: 119 r: 19 s: 38 t: 39 u: 207 v: 98 w: 300 x: 134 y: 5 z: 112 
+BALANCES a: 37 b: 44 c: 78 d: 31 e: 10 f: 158 g: 19 h: 114 i: 81 j: 147 k: 75 l: 147 m: 63 n: 38 o: 78 p: 7 q: 119 r: 19 s: 38 t: 39 u: 207 v: 98 w: 300 x: 134 y: 5 z: 112 
+BALANCES a: 43 b: 44 c: 78 d: 31 e: 10 f: 158 g: 13 h: 114 i: 81 j: 147 k: 75 l: 147 m: 63 n: 38 o: 78 p: 7 q: 119 r: 19 s: 38 t: 39 u: 207 v: 98 w: 300 x: 134 y: 5 z: 112 
+BALANCES a: 43 b: 40 c: 78 d: 31 e: 10 f: 158 g: 13 h: 114 i: 81 j: 147 k: 75 l: 147 m: 63 n: 38 o: 78 p: 7 q: 119 r: 19 s: 38 t: 39 u: 211 v: 98 w: 300 x: 134 y: 5 z: 112 
+BALANCES a: 43 b: 40 c: 78 d: 31 e: 10 f: 158 g: 13 h: 114 i: 108 j: 147 k: 75 l: 147 m: 63 n: 38 o: 78 p: 7 q: 119 r: 19 s: 38 t: 39 u: 211 v: 98 w: 300 x: 134 y: 5 z: 112 
