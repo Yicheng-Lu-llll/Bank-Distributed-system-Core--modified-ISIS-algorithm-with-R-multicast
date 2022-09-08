@@ -1,4 +1,4 @@
-# MDesign document
+# Design document
 Yicheng Lu, Zhaoyang Wang
 Note that The public version does not include TCP design
 ## How to use && Performance evaluation graphs
