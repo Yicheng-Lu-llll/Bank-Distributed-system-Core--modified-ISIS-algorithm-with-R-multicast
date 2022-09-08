@@ -1,12 +1,12 @@
 # Design document
-Yicheng Lu, Zhaoyang Wang
+Yicheng Lu, Zhaoyang Wang  
 Note that The public version does not include TCP design
 ## How to use && Performance evaluation graphs
-1,just use the shell script we provide to run the four scenarios. They are: scenarios1.sh,scenarios2.sh,scenarios3.sh,scenarios4.sh
-2,The output of each node will store in out+"node #"+.txt
-3,the stats data  will store under dic:stats(csv format)
-4,The output data of four scenarios we ran before is  store under ./stats/scenarios1,./stats/scenario21,./stats/scenarios3,./stats/scenarios4
-5,Performance evaluation graphs we created before are under the dic:Plots.
+1,just use the shell script we provide to run the four scenarios. They are: scenarios1.sh,scenarios2.sh,scenarios3.sh,scenarios4.sh  
+2,The output of each node will store in out+"node #"+.txt  
+3,the stats data  will store under dic:stats(csv format)  
+4,The output data of four scenarios we ran before is  store under ./stats/scenarios1,./stats/scenario21,./stats/scenarios3,./stats/scenarios4  
+5,Performance evaluation graphs we created before are under the dic:Plots.  
 
 ## General Protocol Design
 we implement a modified ISIS algorithm with R-multicast. Here is a brief pseudo code to show how it works:
