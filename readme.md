@@ -1,6 +1,6 @@
-# MP1 Design document
+# MDesign document
 Yicheng Lu, Zhaoyang Wang
-
+Note that The public version does not include TCP design
 ## How to use && Performance evaluation graphs
 1,just use the shell script we provide to run the four scenarios. They are: scenarios1.sh,scenarios2.sh,scenarios3.sh,scenarios4.sh
 2,The output of each node will store in out+"node #"+.txt
